@@ -1,0 +1,32 @@
+*{
+  font-family: 'Ysabeau Office', sans-serif;
+}
+
+.card-header.h2{
+  height: 100px;
+  color: #64a6e0;
+  font-family: 'Ysabeau Office', sans-serif;
+
+}
+.card{
+  height: auto;
+  background-image: linear-gradient(to left bottom, #9cbcd7, #8fb7d9, #81b1db, #73acde, #64a6e0);
+}
+
+.form-control{
+  background-image: linear-gradient(to left bottom, #becddb, #b6cbde, #aec9e2, #a5c7e5, #9cc5e8);
+  text-align: center;
+}
+
+#result{
+  text-align: end;
+}
+
+.btn{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: #c8f9fe;
+  border: 1px solid rgb(0, 0, 0);
+  background-color: black;
+}

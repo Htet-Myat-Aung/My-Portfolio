@@ -1,0 +1,28 @@
+*{
+  font-family: 'Ysabeau Office', sans-serif;
+}
+
+.card-header{
+  height: 150px;
+}
+.card{
+  height: auto;
+  box-shadow: 10px 10px 5px 10px rgb(46, 46, 46);
+}
+.button{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: none;
+  /*display: flex;*/
+  /*justify-content: center;*/
+}
+
+.form-control{
+  height: 70px;
+  color: white;
+  background-image: linear-gradient(to top, #191c1f, #1d2126, #23252d, #292a34, #312e3a);
+  font-size: 30px;
+}
+
+
